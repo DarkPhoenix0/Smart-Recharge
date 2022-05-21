@@ -1,0 +1,4 @@
+{
+  "ENV": "development",
+  "BASE_URL": "http://10.10.0.200:8027/v1/"
+}
